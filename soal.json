@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Dalam bait وَالْمَلَكُ الَّذِي بِلَا أَبٍ وَأُمْ * لَا أَكْلَ لَا شُرْبَ وَلَا نَوْمَ لَهُمْ, lafadz الَّذِيْ adalah isim maushul yang digunakan untuk?",
+    "option_A": "مُفْرَد مُذَكَّر",
+    "option_B": "مُفْرَدْ مُؤَنَّث",
+    "option_C": "تَثْنِيَة مُذَكَّر",
+    "option_D": "تَثْنِيَة مُؤَنَّث",
+    "option_E": "جَمْع تَكْسِيْر",
+    "answer_index": "0",
+    "explanation": "Contoh: جَاءَنِيْ الَّذِيْ اشْتَهَرَ أَبُوْهُ, telah datang padaku satu laki-laki yang ayahnya terkenal",
+    "": ""
+  },
+  {
+    "question": "Isim maushul yang digunakan untuk تَثْنِيَة مُذَكَّر dalam tingkah rafa' adalah?",
+    "option_A": "الَّلَذِيَان‎ِ",
+    "option_B": "اللَّذَانِ",
+    "option_C": "الَّلَذَيْنِ",
+    "option_D": "الَّذَانِ‎",
+    "option_E": "اللَّذُوْنَ",
+    "answer_index": "1",
+    "explanation": "Contoh رَفْع: جَاءَ اللَّذَانِ قَامَا، نَصْب: رَأَيْتُ اللَّذَيْنِ قَامَا، جَرّ: مَرَرْتُ بِاللَّذَيْنِ قَامَا",
+    "": ""
+  },
+  {
+    "question": "Di bawah ini adalah maushul yang biasanya digunakan untuk غَيْر الْعَاقِل?",
+    "option_A": "مَنْ‎",
+    "option_B": "الَّذِيْ",
+    "option_C": "الَّتِيْ",
+    "option_D": "ذَا",
+    "option_E": "مَا‎",
+    "answer_index": "4",
+    "explanation": "Contoh: اشْتَرَى زَيْدٌ مَا فِيْ دَارِ عَمْرٍو – Zaid membeli sesuatu yang berada di rumah Amr‎",
+    "": ""
+  },
+  {
+    "question": "Di bawah ini adalah maushul yang biasanya digunakan untuk العْقُلَاَء?",
+    "option_A": "الَّذِيْ",
+    "option_B": "الَّتِيْ",
+    "option_C": "ذَا‎",
+    "option_D": "مَنْ",
+    "option_E": "مَا",
+    "answer_index": "3",
+    "explanation": "Contoh: أَحَبَّ زَيْدً مَنْ فِيْ دَارِ عَمْرٍو – Zaid menyukai orang yang berada di rumah Amr‎",
+    "": ""
+  },
+  {
+    "question": "Dalam bait tersebut, lafadz بِلَا أَبٍ, kalimat لَا di sini termasuk لَا apa??",
+    "option_A": "لَا نَفْيُ جِنْس",
+    "option_B": "لَا نَفْيُ وَحْدَهْ",
+    "option_C": "بِمَعْنَى غَيْر",
+    "option_D": "لَا عَطْف",
+    "option_E": "لَا تَبْرِئَة",
+    "answer_index": "2",
+    "explanation": "Termasuk لَا بِمَعْنَى غَيْر yakni semakna dengan ghoir dan merupakan kalimat isim bukan huruf.",
+    "": ""
+  },
+  {
+    "question": "Di bawah ini huruf yang juga memiliki padanan isim (berlaku sebagai isim) adalah?",
+    "option_A": "عَنْ",
+    "option_B": "عَلَى",
+    "option_C": "سَوْفَ",
+    "option_D": "سِينْ",
+    "option_E": "لَمْ",
+    "answer_index": "1",
+    "explanation": "Contoh: دَخَلَ زَيْدٌ مِنْ عَلَى السَّطْحِ – Zaid masuk dari atas loteng",
+    "": ""
+  },
+  {
+    "question": "Faedah umum dari huruf jer عَلَى adalah?",
+    "option_A": "ظَرْفِيَّة",
+    "option_B": "ابْتِدَاءُ الْغَايَة",
+    "option_C": "انْتِهَاءُ الْغَايَة",
+    "option_D": "تَشْبِيه",
+    "option_E": "اسْتِعْلَاء",
+    "answer_index": "4",
+    "explanation": "Disebutkan dalam Alfiyah قَالَ ابْنُ مَالِكٍ فِي الْخُلَاصَةِ: عَلَى لِلِاسْتِعْلَاءِ وَمَعْنَى فِي وَعَنْ * بِعَنْ تَجَاوُزًا عُنَى مَنْ قَدْ فَطَنَ",
+    "": ""
+  },
+  {
+    "question": "Dalam وَالْمَلَكُ الَّذِي بِلَا أَبٍ وَأُمْ * لَا أَكْلَ لَا شُرْبَ وَلَا نَوْمَ لَهُمْ, Tarkib dari َأَكْل, dalam bait ini adalah?",
+    "option_A": "خَبَرُ لَا",
+    "option_B": "نَعْتُ لَا",
+    "option_C": "نَعْتُ خَبَرِ لَا",
+    "option_D": "اسْمُ لَا",
+    "option_E": "مُبْتَدَأُ لَا",
+    "answer_index": "3",
+    "explanation": "Mabni fathah karena menjadi isim لَا",
+    "": ""
+  },
+  {
+    "question": "Huruf لَا yang beramal seperti َّإِن adalah?",
+    "option_A": "لَا بِمَعْنَى غَيْر",
+    "option_B": "لَا الْعَاطِفَة",
+    "option_C": "لَا الَّتِي لِنَفْيِ الْجِنْسِ",
+    "option_D": "لَا نَهْي",
+    "option_E": "لَا نَصْب",
+    "answer_index": "2",
+    "explanation": "Disebutkan dalam Alfiyah قَالَ ابْنُ مَالِكٍ فِي الْخُلَاصَةِ: عَمَلَ إِنَّ اجْعَلْ لِلَا فِي النَّكِرَةِ * مُفْرَدَةً جَاءَتْكَ أَوْ مُكَرَّرَةْ",
+    "": ""
+  },
+  {
+    "question": "dalan bait تَفْصِيلُ عَشْرٍ مِنْهُمُ جِبْرِيلُ * مِيكَالُ إِسْرَافِيلُ عِزْرَائِيلُ, lafadz منهم tarkibnya menjadi apa?",
+    "option_A": "خَبَر",
+    "option_B": "تَمْيِيز",
+    "option_C": "اسْتِثْنَاء",
+    "option_D": "عَطْف",
+    "option_E": "نَعْت",
+    "answer_index": "4",
+    "explanation": "Jar majrur termasuk syibh jumlah, seperti yang kita ketahui kaedah masyhur yakni Jumlah dan syibh jumlah yang terletak setelah nakiro ditarkib menjadi na'at, jika terletak setelah makrifat maka ditarkib menjadi hal.",
+    "": ""
+  },
+  {
+    "question": "Dalam وَالْمَلَكُ الَّذِي بِلَا أَبٍ وَأُمْ * لَا أَكْلَ لَا شُرْبَ وَلَا نَوْمَ لَهُمْ, shighat dari lafadz شُرْبَ adalah?",
+    "option_A": "isim fa'il",
+    "option_B": "fi'il madli",
+    "option_C": "Masdar",
+    "option_D": "isim masdar",
+    "option_E": "isim maf'ul",
+    "answer_index": "2",
+    "explanation": "Tashrifannya yaitu شَرِبَ يَشْرَبُ شُرْبًا وَمَشْرَبًا فَهُوَ شَارِبٌ وَذَاكَ مَشْرُوبٌ اشْرَبْ لَا تَشْرَبْ مَشْرَبٌ ٢",
+    "": ""
+  },
+  {
+    "question": "Bina' dari fi'il أكل adalah?",
+    "option_A": "مَهْمُوزُ عَيْنٍ",
+    "option_B": "مَهْمُوزُ فَاءٍ",
+    "option_C": "مَهْمُوزُ لَامٍ",
+    "option_D": "لَفِيفٌ مَقْرُونٌ",
+    "option_E": "لَفِيفٌ مَفْرُوقٌ",
+    "answer_index": "1",
+    "explanation": "Karena fa’ fi’il hamzah",
+    "": ""
+  },
+  {
+    "question": "Fi’il mudhari’ dari masdar صَوْم adalah?",
+    "option_A": "يُصَامُ",
+    "option_B": "يُصِيمُ",
+    "option_C": "يُصْمُو",
+    "option_D": "يَصُومُ",
+    "option_E": "يَصْمِي",
+    "answer_index": "3",
+    "explanation": "Tashrifannya yaitu صَامَ يَصُوْمُ صَوْمًا وَمَصَامًا فَهُوَ صَائِمٌ وَذَاكَ مَصُوْمٌ صُمْ لَا تَصُمْ مَصَامٌ ٢ مِصْوَمٌ",
+    "": ""
+  },
+  {
+    "question": "Asal dari lafadz يصوم adalah?",
+    "option_A": "يَصَّوِمُ",
+    "option_B": "يَصَوَّمُ",
+    "option_C": "يَصْوُمُ",
+    "option_D": "يَصْمُوْ",
+    "option_E": "يَصِمُ",
+    "answer_index": "2",
+    "explanation": "Proses i'lal: يَصُومُ أَصْلُهُ يَصْوُمُ عَلَى وَزْنِ يَفْعُلُ، نُقِلَتْ حَرَكَةُ الْوَاوِ إِلَى مَا قَبْلَهَا لِضَعْفِهَا عَلَى تَحَمُّلِ الْحَرَكَةِ فَصَارَ يَصُومُ",
+    "": ""
+  },
+  {
+    "question": "Qoidah إعلال nomor berapa yang menjelaskan perpindahan harakat واو atau ياء?",
+    "option_A": "2",
+    "option_B": "1",
+    "option_C": "4",
+    "option_D": "3",
+    "option_E": "5",
+    "answer_index": "0",
+    "explanation": "Contoh dari kaedah kedua يَصُوْنُ dan يَبِيْعُ",
+    "": ""
+  },
+  {
+    "question": "dalam bait مُنْكَرْ نَكِيرٌ وَرَقِيبٌ وَكَذَا * عَتِيدٌ، مَالِكٌ وَرِضْوَانٌ احْتَذَى, lafadz كذا terdiri dari berapa kalimat?",
+    "option_A": "1",
+    "option_B": "3",
+    "option_C": "5",
+    "option_D": "2",
+    "option_E": "4",
+    "answer_index": "3",
+    "explanation": "Gabungan antara huruf jer كاف dan isim isyarah ذا",
+    "": ""
+  },
+  {
+    "question": "Lafadz ذا adalah isim isyarah yang digunakan untuk?",
+    "option_A": "مُفْرَدٌ مُذَكَّرٌ",
+    "option_B": "مُفْرَدٌ مُؤَنَّثٌ",
+    "option_C": "مُفْرَدٌ تَثْنِيَةٌ",
+    "option_D": "تَثْنِيَةُ مُذَكَّرٍ",
+    "option_E": "تَثْنِيَةُ مُؤَنَّثٍ",
+    "answer_index": "0",
+    "explanation": "Contoh: ُذَا يَقُوْم – Laki-laki ini sedang berdiri",
+    "": ""
+  },
+  {
+    "question": "Faedah dari huruf jer كاف adalah?",
+    "option_A": "اسْتِعْلَاء",
+    "option_B": "اِبْتِدَاءُ الْغَايَة",
+    "option_C": "اِنْتِهَاءُ الْغَايَة",
+    "option_D": "ظَرْفِيَّة",
+    "option_E": "تَشْبِيه",
+    "answer_index": "4",
+    "explanation": "Disebutkan dalam Alfiyah قَالَ ابْنُ مَالِكٍ فِي الْخُلَاصَةِ: شَبِّهْ بِكَافٍ وَبِهَا التَّعْلِيلُ قَدْ ** يُعْنَى وَزَائِدًا لِتَوْكِيدٍ وَرَدَ",
+    "": ""
+  },
+  {
+    "question": "Faedah dari huruf jer في adalah?",
+    "option_A": "ظَرْفِيَّة",
+    "option_B": "ابْتِدَاءُ الْغَايَة",
+    "option_C": "اسْتِعْلَاء",
+    "option_D": "انْتِهَاءُ الْغَايَة",
+    "option_E": "مُجَاوَزَة",
+    "answer_index": "0",
+    "explanation": "Disebutkan dalam Alfiyah قَالَ ابْنُ مَالِكٍ فِي الْخُلَاصَةِ: وَزِيدَ وَالظَّرْفِيَّةَ اسْتَبِنْ بِبَا * وَفِي وَقَدْ يُبَيِّنَانِ السَّبَبَا",
+    "": ""
+  },
+  {
+    "question": "Malaikat رضوان adalah malaikat yang bertugas untuk?",
+    "option_A": "menjaga wahyu",
+    "option_B": "menjaga surga",
+    "option_C": "menjaga neraka",
+    "option_D": "mencabut nyawa",
+    "option_E": "meniup sengkakala",
+    "answer_index": "1",
+    "explanation": "Refensi kitab Nur al-Dlolam karya Syaikh Nawawi Banten",
+    "": ""
+  }
+]
